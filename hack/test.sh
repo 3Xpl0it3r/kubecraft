@@ -1,0 +1,4 @@
+SCRIPT_ROOT=$(dirname "${BASH_SOURCE[0]}")
+
+PROJECT_ROOT="../${SCRIPT_ROOT}"
+
